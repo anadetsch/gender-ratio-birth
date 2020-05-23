@@ -24,7 +24,7 @@ Berlin, 05/22/2020
 
 ## Project Description
 
-The sex ratio at birth is bilogicaly male skewed, but I was surprise when I discovered that for some countries the numbers are way higher than biology can explain. 
+The sex ratio at birth is bilogically male-skewed, but I was surprise when I discovered that for some countries the numbers are way higher than biology can explain. 
 The normal ratio should be 105 boys per 100 girls. The global average of 107 is already above this number, but still inside, or better saying, exactly the acceptable including the possible variance.
 Both most populous countries in the world have a way higher number, 115 in China and 110 India.
 The difference between the expected female birth and the real number combined with the infanticide of girls result in what is called ‘missing women’. The estimation is that in 2015 we had more than 136 million missing women worldwide. To put this number into perspective we can compare it with the population of Mexico (that is 128million). China and India are responsible for 83% of this number. 
@@ -35,8 +35,8 @@ Although India is just the 5th country here, the biggest players are still China
 
 ## Questions & Hypotheses
 
-- Why some countries have a higher male biased ratio?
-- Is there any economical influence or is it a cultural preference for a male child?
+- Why do some countries have a higher male biased ratio?
+- Is there any economic influence or is it a cultural preference for a male child?
 - What are the consequences?
 
 
